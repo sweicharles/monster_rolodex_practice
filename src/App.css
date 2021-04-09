@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Gametitle {
+  font-family: "Zilla Slab Highlight", cursive;
+  font-size: 10vh;
+  color: #0ccac4;
+}
